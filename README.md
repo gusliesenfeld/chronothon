@@ -14,4 +14,4 @@ chronothon supports time units from seconds up to hours and does not take any ar
 
 # license
 
-chronothon is licensed under the [https://github.com/gusliesenfeld/chronothon/blob/main/LICENSE](mit license).
+chronothon is licensed under the [mit license](https://github.com/gusliesenfeld/chronothon/blob/main/LICENSE).
